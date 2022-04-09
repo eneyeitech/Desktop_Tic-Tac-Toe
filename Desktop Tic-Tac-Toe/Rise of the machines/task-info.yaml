@@ -377,6 +377,30 @@ files:
         }
     }
   learner_created: false
+- name: src/tictactoe/Board.java
+  visible: true
+  learner_created: true
+- name: src/tictactoe/Button.java
+  visible: true
+  learner_created: true
+- name: src/tictactoe/ButtonActionListener.java
+  visible: true
+  learner_created: true
+- name: src/tictactoe/StatusBar.java
+  visible: true
+  learner_created: true
+- name: src/tictactoe/GameStatus.java
+  visible: true
+  learner_created: true
+- name: src/tictactoe/Toolbar.java
+  visible: true
+  learner_created: true
+- name: src/tictactoe/Player.java
+  visible: true
+  learner_created: true
 feedback_link: https://hyperskill.org/learn/step/12896#comment
-status: Unchecked
+status: Solved
+feedback:
+  message: Congratulations!
+  time: Sat, 09 Apr 2022 01:07:23 UTC
 record: -1

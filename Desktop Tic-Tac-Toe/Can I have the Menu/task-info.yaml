@@ -482,6 +482,28 @@ files:
         }
     }
   learner_created: false
+- name: src/tictactoe/Cell.java
+  visible: true
+  learner_created: true
+- name: src/tictactoe/Controller.java
+  visible: true
+  learner_created: true
+- name: src/tictactoe/GUI.java
+  visible: true
+  learner_created: true
+- name: src/tictactoe/MenuItem.java
+  visible: true
+  learner_created: true
+- name: src/tictactoe/PlayerButton.java
+  visible: true
+  learner_created: true
+- name: src/tictactoe/ResetButton.java
+  visible: true
+  learner_created: true
 feedback_link: https://hyperskill.org/learn/step/12897#comment
-status: Unchecked
+status: Solved
+feedback:
+  message: Well done! You've finished the project. Select a new project on <a href="https://hyperskill.org/projects">JetBrains
+    Academy</a> to continue learning.
+  time: Thu, 14 Apr 2022 22:51:32 UTC
 record: -1

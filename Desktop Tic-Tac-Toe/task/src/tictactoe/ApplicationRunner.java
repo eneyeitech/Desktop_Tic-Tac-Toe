@@ -1,6 +1,6 @@
 package tictactoe;
 
-//Author Gábor Tusjak
+//SOurce Gábor Tusjak
 //19 days ago
 
 public class ApplicationRunner {
